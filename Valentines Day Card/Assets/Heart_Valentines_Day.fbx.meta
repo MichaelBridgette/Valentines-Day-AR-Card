@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: da32757906a3b5e4b9b4b9976fc22fce
+timeCreated: 1526982526
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Feather_Main_L
+    100004: Feather_Main_R
+    100006: Happy_Valentines_Day
+    100008: Heart_Big_01
+    100010: Heart_Big_GR
+    100012: //RootNode
+    100014: Hearts
+    100016: Light_Back
+    100018: Light_Circle_0
+    100020: Light_Circle_1
+    100022: Light_Circle_2
+    100024: Light_Circle_3
+    100026: Light_Circle_4
+    100028: Light_Circle_gr
+    100030: Light_Front
+    100032: Light_Gr
+    100034: Light_Top
+    100036: Nimbus
+    100038: Nimbus_Fur
+    100040: Sub_Heart_Big_01
+    100042: Tape
+    400000: Camera
+    400002: Feather_Main_L
+    400004: Feather_Main_R
+    400006: Happy_Valentines_Day
+    400008: Heart_Big_01
+    400010: Heart_Big_GR
+    400012: //RootNode
+    400014: Hearts
+    400016: Light_Back
+    400018: Light_Circle_0
+    400020: Light_Circle_1
+    400022: Light_Circle_2
+    400024: Light_Circle_3
+    400026: Light_Circle_4
+    400028: Light_Circle_gr
+    400030: Light_Front
+    400032: Light_Gr
+    400034: Light_Top
+    400036: Nimbus
+    400038: Nimbus_Fur
+    400040: Sub_Heart_Big_01
+    400042: Tape
+    2000000: Camera
+    2100000: Haert_Big_Mt
+    2100002: Feather_Main_mt
+    2100004: Feather_leaf_mt
+    2100006: Nimbus_mt
+    2100008: HVD_mt
+    2100010: Tape_mt
+    2100012: Hearts_mt
+    2300000: Feather_Main_L
+    2300002: Feather_Main_R
+    2300004: Happy_Valentines_Day
+    2300006: Heart_Big_01
+    2300008: Hearts
+    2300010: Nimbus
+    2300012: Tape
+    3300000: Feather_Main_L
+    3300002: Feather_Main_R
+    3300004: Happy_Valentines_Day
+    3300006: Heart_Big_01
+    3300008: Hearts
+    3300010: Nimbus
+    3300012: Tape
+    4300000: Heart_Big_01
+    4300002: Feather_Main_R
+    4300004: Feather_Main_L
+    4300006: Nimbus
+    4300008: Happy_Valentines_Day
+    4300010: Tape
+    4300012: Hearts
+    9500000: //RootNode
+    10800000: Light_Back
+    10800002: Light_Circle_0
+    10800004: Light_Circle_1
+    10800006: Light_Circle_2
+    10800008: Light_Circle_3
+    10800010: Light_Circle_4
+    10800012: Light_Front
+    10800014: Light_Top
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
